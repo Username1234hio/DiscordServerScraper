@@ -8,4 +8,4 @@ PLEASE READ THIS BEFORE RUNNING THE BOT AND WONDERING WHY IT ISNT WORKING
 7. Paste the Token into the "const TOKEN = 'YOUR_BOT_TOKEN_HERE';" part in bot.js
 8. Run "npm start"
 9. invite the bot to your server
-10. run the script and it should generate the csv files
+10. run the script and it should generate the csv files (/export)
